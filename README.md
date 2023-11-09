@@ -135,6 +135,8 @@ Como determino uma boa resolução para minha imagem? Uma imagem com boa resolu�
 
 Por quê? Se uma imagem bitmap for ampliada, não aumenta a quantidade de pixels, isto é, não aumenta a resolução. Se aumentarmos uma imagem, o pixel aumenta de tamanho e fica visível, ocorrendo a perda de qualidade da imagem.
 
+> Muitos se perguntam se tem como aumentar a resolução de uma imagem no editor, e a resposta é sim e não ao mesmo tempo. É possível aumentar a resolução de uma imagem bitmap, porém quando fazemos isso estamos aumentando a capacidade de armazenamento dessa imagem em MB na nossa máquina e não necessariamente estamos aumentando a resolução dela, o que fazemos é esticar a imagem pra aquele formato, porém os pixels são os mesmos da resolução base dessa imagem. O que é recomendado é que possamos armazenar na nossa máquina imagens de resolução mais compatível daquele tamanho disponível, seja registrada por câmeras fotográficas ou criadas pela internet.
+
 **Bitmap e dados** - Uma imagem bitmap tem muita informação e necessita de muito espaço de armazenamento. É importante observar quantos MB (megabytes) a imagem tem e, se for necessário, o arquivo deverá ser compactado para uma extensão JPEG ou RAW.
 
 Uma imagem para impressão sobre papel, em modo de cores CMYK no formato A4, com a resolução de 150 DPI, tem em média o peso de 40MB. Se ela for arquivada em JPEG, esse peso pode ser reduzido.
