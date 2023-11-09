@@ -261,6 +261,11 @@ A mistura de duas cores primárias da síntese subtrativa gera uma cor primária
 
 A escala de cinzas ou escala acromática (cor, croma = “khrôma” em grego; acromática, sem cor), ou escala das tonalidades, é utilizada em imagens preto e branco. Os tons de cinza são obtidos reduzindo percentualmente a cor preta.
 
+### Escala monocromática
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/146a304b-bb60-4cdb-b965-b6f94a0ba431" align="right" height="77">
+
+A escala monocromática é formada por apenas uma cor (croma, matiz), adotando o mesmo princípio da escala acromática, reduzindo seu percentual ou a dessaturando.
+
 ## [Ae] Chroma Key
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/d5e28d73-fa31-4fe0-a881-b56bc5c20737" align="right" height="77">
 
