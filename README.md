@@ -11,6 +11,12 @@ Veremos que os programas da Adobe Creative Cloud atendem aos profissionais da in
 
 Conheceremos as técnicas em relação à resolução da imagem, como usar a imagem bitmap e a vetorial, quais os programas mais indicados para cada uma delas, como são feitas as imagens 2D e 3D, quais as extensões dos programas gráficos e como devemos fechar um arquivo. Finalmente, aprenderemos os fundamentos do design para a diagramação de páginas.
 
+A **computação gráfica** (CG), o termo computer graphics surgiu da união das palavras computer (computador) + graphics (gráficos), disciplina que trata as teorias, métodos e técnicas de representação, cálculos e visualização de gráficos e grafismos.
+
+Existem diversas definições para computação gráfica, dentre elas, a da International Standards Organization - ISO: métodos e técnicas utilizados para converter dados para um dispositivo gráfico através de um computador.
+
+# CGI - Computer Graphic Imagery
+
 # 🎨 Teoria das cores
 
 # [2D] Ps - Adobe Photoshop
