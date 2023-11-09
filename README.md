@@ -23,7 +23,9 @@ A CG tem um amplo conjunto de técnicas aplicadas à criação e manipulação d
 
 Renata Silva (2015) cita o termo CGI, computer-generated imagery (imagens geradas por computador), que se refere a uma visão ampla da CG, englobando todas as possibilidades de manipulação de imagens realizadas por profissionais de Design Gráfico, Design de Produto, Animação, Design de Game, Direção de Arte em Publicidade, Edição de Vídeos, Modelagem 3D e Artes Visuais.
 
-# 🎨 Teoria das cores
+> **Saiba mais**: O primeiro computador a apresentar uma interface gráfica foi o **Whirlwind I**, desenvolvido pelo Instituto de Tecnologia de Massachusetts - MIT em 1950, que foi utilizado para a produção e exibição de vídeos. Este computador surgiu unicamente com finalidade acadêmica e depois passou a atender às necessidades militares de monitoramento e controle de voos, desenvolvidas pela defesa aérea dos EUA.
+
+## [CGI] Teoria das cores
 
 # [2D] Ps - Adobe Photoshop
 
