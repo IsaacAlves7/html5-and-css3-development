@@ -37,11 +37,11 @@ A computação gráfica está presente em nosso dia a dia desde as imagens de di
 
 As imagens no campo bidimensional, isto é, representadas em suportes como o papel, monitor do computador, tela da TV, dentre outros, podem simular duas dimensões: 2D e 3D.
 
-<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/a77486c4-911a-40cc-bf09-91da7a01cc88" align="right" height="77">
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/a77486c4-911a-40cc-bf09-91da7a01cc88" align="right" height="177">
 
 Objetos 2D: imagens bidimensionais são realizadas em duas dimensões – altura e comprimento, nos eixos cartesianos Y (vertical) e Z (horizontal). São figuras planas que não oferecem uma percepção de profundidade. A escrita é incluída na forma bidimensional.
 
-<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/72002167-4188-48f0-a1d2-48c5c3d31c2a" align="right" height="77">
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/72002167-4188-48f0-a1d2-48c5c3d31c2a" align="right" height="177">
 
 Objetos 3D: imagens tridimensionais são construídas em três dimensões, segundo o tri-eixo cartesiano Y (altura), Z (comprimento) e X (profundidade). O mundo em que vivemos é tridimensional e pode ser representado sobre superfícies planas adotando a geometria descritiva.
 
@@ -58,6 +58,17 @@ Os principais campos da CG:
 **VR - Realidade virtual**: Jaron Lanier, fundador da VPL Research Inc., criou o termo realidade virtual na década de 1980, para diferenciar as simulações tradicionais feitas por um computador para uma multiplicidade de usuários em um ambiente compartilhado. É considerada a forma mais avançada de interação homem/ máquina. Trata-se de uma interface que simula um ambiente real e permite aos participantes interagir com ele, (Latta, 1994) possibilitando às pessoas visualizar, manipular e interagir com representações extremamente complexas. (Aukstakalnis, 1992) O filme Matrix é um exemplo do uso da realidade virtual.
    
 **Editoração Eletrônica**: é a edição de publicações intermediada por computador que oferece um resultado com qualidade igual ou superior ao processo convencional.
+
+## [CGI] Editoração eletrônica
+O desktop publishing - DTP, editoração eletrônica ou diagramação eletrônica, é o campo da computação gráfica que se dedica à composição de páginas realizadas no computador.
+
+O DTP surgiu em 1985 com o programa PageMaker, criado pela Aldus Corporation, e com a impressora LaserWriter da Apple Computer.
+
+Hardware, software e impressora interligados permitiram a criação de layouts vistos no monitor do computador e imediatamente impressos. Este avanço foi um marco para os profissionais das artes gráficas, que ganharam rapidez e realismo em seus projetos.
+
+Em 1940, o Automatic calculator (AC) Os primeiros computadores eram calculadoras gigantescas e lentas usadas para fins militares.
+
+Em 1950, Computadores mais rápidos com o uso da técnica transistor. Em 1951 surge o primeiro computador com computação gráfica.
 
 ## [CGI] Teoria das cores
 
