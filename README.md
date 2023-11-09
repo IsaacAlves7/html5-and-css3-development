@@ -1,4 +1,4 @@
-# 🎨 Computação Graf. e Ed. Eletrônica
+# 🎨 [CGI] Computação Graf. e Ed. Eletrônica
 A Computação Gráfica e Editoração Eletrônica é uma disciplina teórica e prática que ensina os conhecimentos básicos sobre os softwares Photoshop, Illustrator e InDesign, utilizados respectivamente para o tratamento de imagens fotográficas e imagens bitmap, desenhos vetoriais e diagramação e diagramação de jornais e revistas impressas. Os conhecimentos fornecidos sobre a editoração eletrônica, que é um campo da computação gráfica, apresentará os softwares de edição de imagens e textos mais utilizados no mercado.
 
 No início dos anos 1950, cientistas da Tecnologia da Informação sentiram a necessidade de transformar os dados do computador em imagens para oferecer uma interface ao usuário capaz de favorecer a interatividade entre o homem e a máquina.
@@ -19,7 +19,9 @@ Existem diversas definições para computação gráfica, dentre elas, a da Inte
 
 > Para James D. Foley (1995), computação gráfica - CG é a criação, armazenamento e manipulação de modelos de objetos e suas imagens via computador.
 
-# [CGI] Computer Graphic Imagery
+A CG tem um amplo conjunto de técnicas aplicadas à criação e manipulação de imagens 2D e 3D, animações e vídeos que são possíveis através da representação matemática e gráfica dos objetos.
+
+Renata Silva (2015) cita o termo CGI, computer-generated imagery (imagens geradas por computador), que se refere a uma visão ampla da CG, englobando todas as possibilidades de manipulação de imagens realizadas por profissionais de Design Gráfico, Design de Produto, Animação, Design de Game, Direção de Arte em Publicidade, Edição de Vídeos, Modelagem 3D e Artes Visuais.
 
 # 🎨 Teoria das cores
 
