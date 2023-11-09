@@ -114,7 +114,7 @@ O que ocorre para que o pixel tenha cor é a técnica denominada “profundidade
 
 Sobrepondo essas camadas de bits, é possível chegar a 32 milhões de cores, número maior que a natureza e maior do que possamos distinguir.
 
-Bitmap e resolução - A quantidade de pontos por polegada ou DPI (dots per inch) determina a resolução da imagem. A medida do pixel é digital, não tem correspondência com nenhum sistema métrico e não pode ser medido em centímetros ou polegadas.
+**Bitmap e resolução** - A quantidade de pontos por polegada ou DPI (dots per inch) determina a resolução da imagem. A medida do pixel é digital, não tem correspondência com nenhum sistema métrico e não pode ser medido em centímetros ou polegadas.
 
 É o computador que converte o pixel para uma medida métrica no momento da impressão. Esta medida corresponde à seguinte relação:
 
