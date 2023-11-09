@@ -219,6 +219,8 @@ Os arquivos de imagens vetoriais podem ser armazenados em vários formatos, send
 É importante notar que alguns desses formatos podem suportar tanto gráficos vetoriais quanto elementos de imagem rasterizada, dependendo de como são criados e salvos. A escolha do formato muitas vezes depende da aplicação específica e dos requisitos do projeto.
 
 ## [CGI] Chroma Key
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/d5e28d73-fa31-4fe0-a881-b56bc5c20737" align="right" height="77">
+
 O **Chroma Key** é uma técnica usada em produções audiovisuais para combinar duas imagens ou vídeos diferentes, removendo uma cor específica (geralmente verde ou azul) de uma delas e substituindo essa área pela imagem ou vídeo da outra. Essa técnica é frequentemente usada em produção de filmes, televisão, transmissões ao vivo, e criação de conteúdo para vídeo.
 
 Os passos básicos do processo de Chroma Key incluem:
@@ -234,6 +236,8 @@ Os passos básicos do processo de Chroma Key incluem:
 O Chroma Key é especialmente útil em situações em que seria difícil ou impraticável filmar em um local específico. Ele permite que os cineastas e produtores criem ambientes virtuais ou insiram personagens em cenários que não estavam originalmente presentes durante a filmagem.
 
 Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de televisão. O meteorologista geralmente fica na frente de um fundo verde, que é substituído por mapas meteorológicos ou imagens de satélite durante a transmissão.
+
+O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição.
 
 # [2D] Ps - Adobe Photoshop CC
 
