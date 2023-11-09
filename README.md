@@ -39,13 +39,13 @@ As imagens no campo bidimensional, isto é, representadas em suportes como o pap
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/a77486c4-911a-40cc-bf09-91da7a01cc88" align="right" height="177">
 
-**Objetos 2D**: imagens bidimensionais são realizadas em duas dimensões: altura e comprimento, nos eixos cartesianos Y (vertical) e Z (horizontal). São figuras planas que não oferecem uma percepção de profundidade. A escrita é incluída na forma bidimensional. Objetos 2D referem-se a objetos que existem em duas dimensões espaciais: comprimento e largura. Em outras palavras, esses objetos são planos e têm apenas extensão em duas direções. Eles não têm profundidade. Exemplos comuns de objetos 2D incluem desenhos em uma folha de papel, imagens em uma tela de computador ou até mesmo símbolos em uma superfície plana. Além disso, quando falamos sobre gráficos computacionais, uma imagem bidimensional (2D) é composta por pixels organizados em uma grade, onde cada pixel representa uma cor em uma posição específica. Isso cria a ilusão de formas e objetos em um plano bidimensional.
+- **Objetos 2D**: imagens bidimensionais são realizadas em duas dimensões: altura e comprimento, nos eixos cartesianos Y (vertical) e Z (horizontal). São figuras planas que não oferecem uma percepção de profundidade. A escrita é incluída na forma bidimensional. Objetos 2D referem-se a objetos que existem em duas dimensões espaciais: comprimento e largura. Em outras palavras, esses objetos são planos e têm apenas extensão em duas direções. Eles não têm profundidade. Exemplos comuns de objetos 2D incluem desenhos em uma folha de papel, imagens em uma tela de computador ou até mesmo símbolos em uma superfície plana. Além disso, quando falamos sobre gráficos computacionais, uma imagem bidimensional (2D) é composta por pixels organizados em uma grade, onde cada pixel representa uma cor em uma posição específica. Isso cria a ilusão de formas e objetos em um plano bidimensional.
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/72002167-4188-48f0-a1d2-48c5c3d31c2a" align="right" height="177">
 
-**Objetos 3D**: imagens tridimensionais são construídas em três dimensões, segundo o tri-eixo cartesiano Y (altura), Z (comprimento) e X (profundidade). O mundo em que vivemos é tridimensional e pode ser representado sobre superfícies planas adotando a geometria descritiva.
+- **Objetos 3D**: imagens tridimensionais são construídas em três dimensões, segundo o tri-eixo cartesiano Y (altura), Z (comprimento) e X (profundidade). O mundo em que vivemos é tridimensional e pode ser representado sobre superfícies planas adotando a geometria descritiva. Isso quer dizer que adotamos uma técnica que, através da ilusão ótica, sugere uma profundidade muito próxima da realidade.
 
-Isso quer dizer que adotamos uma técnica que, através da ilusão ótica, sugere uma profundidade muito próxima da realidade.
+O contraste entre objetos 2D e 3D é fundamental. Enquanto objetos 2D têm apenas comprimento e largura, objetos 3D têm uma dimensão adicional - profundidade. Objetos 3D são tridimensionais e têm volume, o que significa que podem ser visualizados em três direções: comprimento, largura e profundidade.
 
 Os principais campos da CG:
 
@@ -124,6 +124,32 @@ QUANTIDADE DE PIXELS / ÁREA DE IMPRESSÃO = RESOLUÇÃO
 100 pixels / cm (centímetro)
 72 pixels / polegada (inch)
 ```
+
+Como determino uma boa resolução para minha imagem? Uma imagem com boa resolução deve ocupar a medida exata da área em que será inserida, ter 300 dpi (pixels x polegada) para formatos até A3 e nunca deve ser muito ampliada ou muito reduzida.
+
+É muito importante saber que, quanto mais pixels são colocados em uma pequena área, mais reduzido será o tamanho do pixel. Quanto menos pixels em uma área maior, maior será o tamanho do pixel.
+
+Por quê? Se uma imagem bitmap for ampliada, não aumenta a quantidade de pixels, isto é, não aumenta a resolução. Se aumentarmos uma imagem, o pixel aumenta de tamanho e fica visível, ocorrendo a perda de qualidade da imagem.
+
+**Bitmap e dados** - Uma imagem bitmap tem muita informação e necessita de muito espaço de armazenamento. É importante observar quantos MB (megabytes) a imagem tem e, se for necessário, o arquivo deverá ser compactado para uma extensão JPEG ou RAW.
+
+Uma imagem para impressão sobre papel, em modo de cores CMYK no formato A4, com a resolução de 150 DPI, tem em média o peso de 40MB. Se ela for arquivada em JPEG, esse peso pode ser reduzido.
+
+**Bitmap e arquivos** - As extensões de gráficos da imagem bitmap são BMP (Windows Paint), PCX (Paintbrush), PSD (Adobe Photoshop), CPT (Corel Photopaint), TIF (usado em editoração), GIF e JPG (usados na internet).
+
+Na prática, qual cuidado devemos ter com a imagem bitmap? Se você ampliar uma imagem bitmap, ela perde definição. E se você reduzir demais, perde a nitidez. Imagens bitmaps são mais “pesadas” que as vetoriais e às vezes podem ser impróprias para download ou para aplicação em uma arte digital.
+
+## [CGI] Imagem vetorial
+A tela e as interfaces dos programas gráficos, mesmo que sejam para a criação de imagem vetorial, são formadas por mapas bits. No entanto, se a imagem vetorial for muito ampliada, ela não perde resolução, permanece nítida.
+
+Por quê?
+
+> “Os gráficos vetoriais são constituídos por primitivas geométricas como pontos, formas, curvas, polígonos ou linhas originadas por expressões matemáticas”.
+- SILVA, 2015
+
+Os vetores não são formados por pixels, mas definidos por seus atributos.
+
+O computador guarda na memória os atributos da imagem vetorial, e assim, qualquer outro computador pode redesenhar. Isto corresponde a uma economia de informações e torna a imagem vetorial mais leve que a bitmap.
 
 ## [CGI] Teoria das cores
 
