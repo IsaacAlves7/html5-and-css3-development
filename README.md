@@ -140,6 +140,8 @@ Uma imagem para impressão sobre papel, em modo de cores CMYK no formato A4, com
 Na prática, qual cuidado devemos ter com a imagem bitmap? Se você ampliar uma imagem bitmap, ela perde definição. E se você reduzir demais, perde a nitidez. Imagens bitmaps são mais “pesadas” que as vetoriais e às vezes podem ser impróprias para download ou para aplicação em uma arte digital.
 
 ## [CGI] Imagem vetorial
+**Imagens vetoriais** são gráficos baseados em vetores matemáticos, o que significa que elas são definidas por equações matemáticas que descrevem formas geométricas. Essa característica permite que as imagens vetoriais sejam redimensionadas sem perda de qualidade, ao contrário das imagens rasterizadas (bitmap), que consistem em pixels e podem perder qualidade quando aumentadas.
+
 A tela e as interfaces dos programas gráficos, mesmo que sejam para a criação de imagem vetorial, são formadas por mapas bits. No entanto, se a imagem vetorial for muito ampliada, ela não perde resolução, permanece nítida.
 
 Por quê?
@@ -159,6 +161,28 @@ No caso da ampliação ou redução, o que acontece?
 Quando ampliamos a imagem vetorial, apesar dela ocupar mais espaço na área de trabalho, os atributos permanecem.
 
 > Devido a esta característica, marcas, símbolos, ilustrações e desenhos devem ser feitos em programas gráficos como Illustrator ou CorelDraw, para não perderem a qualidade.
+
+> **Saiba mais**: Vetor e arquivos - As extensões de gráficos vetoriais mais conhecidas são WMF (Windows Metafile), CDR (CorelDraw), DWG, DXF (ambos do AutoCAD) e AI (Adobe Illustrator).
+
+Os arquivos de imagens vetoriais podem ser armazenados em vários formatos, sendo que alguns dos formatos mais comuns incluem:
+
+- SVG (Scalable Vector Graphics): Este é um formato de arquivo aberto e baseado em XML para gráficos vetoriais 2D. É amplamente suportado em navegadores web, o que o torna uma escolha popular para gráficos vetoriais em páginas da web.
+
+- AI (Adobe Illustrator): O formato de arquivo nativo do Adobe Illustrator, um dos programas de design vetorial mais populares. Os arquivos AI podem conter tanto elementos vetoriais quanto elementos de imagem rasterizada.
+
+- EPS (Encapsulated PostScript): Um formato de arquivo vetorial que suporta tanto elementos vetoriais quanto elementos de imagem rasterizada. É um formato versátil que pode ser usado em uma variedade de aplicativos.
+
+- PDF (Portable Document Format): Embora seja conhecido principalmente como um formato de documento portátil, o PDF também pode conter gráficos vetoriais. Isso permite que documentos PDF mantenham a qualidade das imagens vetoriais quando são redimensionados.
+
+- CDR (CorelDRAW): Este é o formato de arquivo nativo do software CorelDRAW, outra ferramenta popular para design vetorial.
+
+- DXF (Drawing Exchange Format): Um formato de arquivo usado para facilitar a interoperabilidade entre diferentes programas CAD (Computer-Aided Design). Pode conter informações vetoriais.
+
+- WMF (Windows Metafile): Um formato de arquivo desenvolvido para funcionar bem em sistemas operacionais Windows. Pode armazenar gráficos vetoriais.
+
+- DWG (AutoCAD Drawing Database): Usado principalmente em software de design assistido por computador (CAD), o formato DWG pode conter informações 2D e 3D.
+
+É importante notar que alguns desses formatos podem suportar tanto gráficos vetoriais quanto elementos de imagem rasterizada, dependendo de como são criados e salvos. A escolha do formato muitas vezes depende da aplicação específica e dos requisitos do projeto.
 
 ## [CGI] Teoria das cores
 
