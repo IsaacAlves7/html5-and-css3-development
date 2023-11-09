@@ -31,6 +31,8 @@ A computação gráfica está presente em nosso dia a dia desde as imagens de di
 
 **Animação e efeitos especiais**: Animação e efeitos especiais, como os programas das suítes Adobe e Corel Draw para publicidade e entretenimento. As técnicas desta área são responsáveis pela geração de imagens e textos e permitem a introdução de som, movimento e interatividade;
 
+**Apresentação gráfica de dados**: Apresentação gráfica de dados usados em economia, administração e estatística, com o uso dos programas da Microsoft Office;
+
 ## [CGI] Teoria das cores
 
 ## [CGI] Chroma Key
