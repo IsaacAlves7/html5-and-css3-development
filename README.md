@@ -144,7 +144,9 @@ Uma imagem para impressão sobre papel, em modo de cores CMYK no formato A4, com
 Na prática, qual cuidado devemos ter com a imagem bitmap? Se você ampliar uma imagem bitmap, ela perde definição. E se você reduzir demais, perde a nitidez. Imagens bitmaps são mais “pesadas” que as vetoriais e às vezes podem ser impróprias para download ou para aplicação em uma arte digital.
 
 ## [CGI] Imagem vetorial
-**Imagens vetoriais** são gráficos baseados em vetores matemáticos, o que significa que elas são definidas por equações matemáticas que descrevem formas geométricas. Essa característica permite que as imagens vetoriais sejam redimensionadas sem perda de qualidade, ao contrário das imagens rasterizadas (bitmap), que consistem em pixels e podem perder qualidade quando aumentadas.
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/1a5a1e62-c131-4509-b76d-6dc4b6709626" align="right" height="177">
+
+As **Imagens vetoriais** são gráficos baseados em vetores matemáticos, o que significa que elas são definidas por equações matemáticas que descrevem formas geométricas. Essa característica permite que as imagens vetoriais sejam redimensionadas sem perda de qualidade, ao contrário das imagens rasterizadas (bitmap), que consistem em pixels e podem perder qualidade quando aumentadas.
 
 A tela e as interfaces dos programas gráficos, mesmo que sejam para a criação de imagem vetorial, são formadas por mapas bits. No entanto, se a imagem vetorial for muito ampliada, ela não perde resolução, permanece nítida.
 
@@ -153,8 +155,6 @@ Por quê?
 > “Os gráficos vetoriais são constituídos por primitivas geométricas como pontos, formas, curvas, polígonos ou linhas originadas por expressões matemáticas”.- SILVA, 2015
 
 Os vetores não são formados por pixels, mas definidos por seus atributos.
-
-<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/1a5a1e62-c131-4509-b76d-6dc4b6709626" align="right" height="177">
 
 O computador guarda na memória os atributos da imagem vetorial, e assim, qualquer outro computador pode redesenhar. Isto corresponde a uma economia de informações e torna a imagem vetorial mais leve que a bitmap.
 
