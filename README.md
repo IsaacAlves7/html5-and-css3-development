@@ -68,7 +68,13 @@ Hardware, software e impressora interligados permitiram a criação de layouts v
 
 Em 1940, o Automatic calculator (AC) Os primeiros computadores eram calculadoras gigantescas e lentas usadas para fins militares.
 
-Em 1950, Computadores mais rápidos com o uso da técnica transistor. Em 1951 surge o primeiro computador com computação gráfica.
+Em 1950, computadores mais rápidos com o uso da técnica transistor. Em 1951 surge o primeiro computador com computação gráfica.
+
+Na década de 60, em 1963 o protótipo do primeiro mouse foi criado por Douglas Engelbart, aperfeiçoado pela IBM e comercializado em 1970 pela Telefunken.
+
+Em 1970, surge o microcomputador e a Apple. Surgimento da cultura digital, com a criação do PC Apple I, personal computer.
+
+Em 1980, Steve Jobs, da Apple, em parceria com a Microsoft, cria o Macintosh, primeiro sistema operacional com interface gráfica. Em 1982 é fundada pela Adobe.
 
 ## [CGI] Teoria das cores
 
