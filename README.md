@@ -13,9 +13,13 @@ Conheceremos as técnicas em relação à resolução da imagem, como usar a ima
 
 A **computação gráfica** (CG), o termo computer graphics surgiu da união das palavras computer (computador) + graphics (gráficos), disciplina que trata as teorias, métodos e técnicas de representação, cálculos e visualização de gráficos e grafismos.
 
+<img src="https://github.com/IsaacAlves7/web/assets/61624336/9b1659ea-47e4-427e-bca7-35c990c378d5" align="right" height="77">
+
 Existem diversas definições para computação gráfica, dentre elas, a da International Standards Organization - ISO: métodos e técnicas utilizados para converter dados para um dispositivo gráfico através de um computador.
 
-# CGI - Computer Graphic Imagery
+> Para James D. Foley (1995), computação gráfica - CG é a criação, armazenamento e manipulação de modelos de objetos e suas imagens via computador.
+
+# [CGI] Computer Graphic Imagery
 
 # 🎨 Teoria das cores
 
