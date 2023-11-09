@@ -219,8 +219,9 @@ Os arquivos de imagens vetoriais podem ser armazenados em vários formatos, send
 É importante notar que alguns desses formatos podem suportar tanto gráficos vetoriais quanto elementos de imagem rasterizada, dependendo de como são criados e salvos. A escolha do formato muitas vezes depende da aplicação específica e dos requisitos do projeto.
 
 ## [CGI] Chroma Key
+O **Chroma Key** é uma técnica usada em produções audiovisuais para combinar duas imagens ou vídeos diferentes, removendo uma cor específica (geralmente verde ou azul) de uma delas e substituindo essa área pela imagem ou vídeo da outra. Essa técnica é frequentemente usada em produção de filmes, televisão, transmissões ao vivo, e criação de conteúdo para vídeo.
 
-# [2D] Ps - Adobe Photoshop
+# [2D] Ps - Adobe Photoshop CC
 
 # [2D] Adobe Ilustrator
 
