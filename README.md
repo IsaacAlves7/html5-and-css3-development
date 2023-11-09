@@ -242,6 +242,13 @@ A síntese aditiva é formada pelas cores vermelha (red), verde (green) e azul (
 
 O que você está vendo agora na sua tela são cores RGB, portanto, as artes que serão aplicadas na web devem ser feitas nesta escala. As cores da escala RGB são representadas em decimais que vão de 0 a 255.
 
+### [CGI] Sistema hexadecimal
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/30be5d31-e9f4-4cba-8da8-1c616795d42b" height="177" align="right">
+
+O RGB é representado na internet com o sistema hexadecimal, um código formado por seis dígitos e precedido de “#”. O sistema é composto por 16 símbolos alfanuméricos, que são calculados diretamente pelos softwares.
+
+1 2 3 4 5 6 7 8 9 A B C D E F
+
 ## [Ae] Chroma Key
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/d5e28d73-fa31-4fe0-a881-b56bc5c20737" align="right" height="77">
 
