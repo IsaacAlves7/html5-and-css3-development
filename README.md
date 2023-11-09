@@ -221,6 +221,20 @@ Os arquivos de imagens vetoriais podem ser armazenados em vários formatos, send
 ## [CGI] Chroma Key
 O **Chroma Key** é uma técnica usada em produções audiovisuais para combinar duas imagens ou vídeos diferentes, removendo uma cor específica (geralmente verde ou azul) de uma delas e substituindo essa área pela imagem ou vídeo da outra. Essa técnica é frequentemente usada em produção de filmes, televisão, transmissões ao vivo, e criação de conteúdo para vídeo.
 
+Os passos básicos do processo de Chroma Key incluem:
+
+1. Escolha da Cor: Um fundo uniforme e consistente é escolhido. Verde e azul são cores comumente usadas porque não costumam coincidir com a cor da pele humana, roupas ou cabelos.
+
+2. Filmagem ou Captura de Imagens: O sujeito ou objeto é filmado ou fotografado na frente do fundo escolhido.
+
+3. Remoção da Cor de Fundo: Usando software de edição de vídeo ou imagem, a cor de fundo selecionada (verde ou azul) é removida, deixando apenas o sujeito ou objeto.
+
+4. Substituição do Fundo: A área onde a cor de fundo foi removida é preenchida com outra imagem, vídeo ou efeito visual desejado. Isso pode ser uma paisagem, um cenário virtual, ou qualquer outra imagem desejada.
+
+O Chroma Key é especialmente útil em situações em que seria difícil ou impraticável filmar em um local específico. Ele permite que os cineastas e produtores criem ambientes virtuais ou insiram personagens em cenários que não estavam originalmente presentes durante a filmagem.
+
+Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de televisão. O meteorologista geralmente fica na frente de um fundo verde, que é substituído por mapas meteorológicos ou imagens de satélite durante a transmissão.
+
 # [2D] Ps - Adobe Photoshop CC
 
 # [2D] Adobe Ilustrator
