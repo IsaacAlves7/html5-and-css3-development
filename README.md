@@ -134,6 +134,8 @@ Os pixels são organizados em linhas e colunas para formar uma matriz, e cada pi
 
 A resolução de uma imagem é frequentemente medida pela quantidade de pixels em largura e altura, por exemplo, "1920x1080" indica uma resolução de 1920 pixels de largura por 1080 pixels de altura. A densidade de pixels, medida em pixels por polegada (PPI), é outra métrica importante na qualidade da imagem, especialmente em dispositivos de exibição como telas de smartphones e monitores.
 
+> Quando se fala em imagem digital o correto é PPI porque é o pixel por polegada, é quando a gente forma as imagens digitais, ou seja, as imagens de tela. Para a saída, ou seja, a impressão o correto é chamar de DPI que é o ponto por polegada. E ele vai ter o mesmo princípio da resolução, porém ele é para os formatos de impressão.
+
 O que ocorre para que o pixel tenha cor é a técnica denominada “profundidade de pixel”, na qual um pixel pode receber várias camadas de bits até chegar à cor desejada.
 
 Sobrepondo essas camadas de bits, é possível chegar a 32 milhões de cores, número maior que a natureza e maior do que possamos distinguir.
