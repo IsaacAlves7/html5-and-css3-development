@@ -76,6 +76,20 @@ Em 1970, surge o microcomputador e a Apple. Surgimento da cultura digital, com a
 
 Em 1980, Steve Jobs, da Apple, em parceria com a Microsoft, cria o Macintosh, primeiro sistema operacional com interface gráfica. Em 1982 é fundada pela Adobe.
 
+Com o passar do tempo, os programas gráficos de editoração eletrônica vêm se tornando mais acessíveis, com interfaces mais interativas e com soluções gráficas mais sofisticadas, permitindo que usuários não especialistas possam criar publicações ou retocar fotografias com qualidade profissional.
+
+> Programas básicos de edição de texto, como os da Microsoft Word, se incluem na editoração eletrônica.
+
+Photoshop, Illustrator e InDesign são os três principais programas para editoração eletrônica da Adobe, empresa criada em dezembro de 1982 por Charles Geschke e John Warnock.
+
+A Adobe desenvolve programas de edição de imagem e texto para os sistemas operacionais Windows e OS da Apple. Para quem está aprendendo, a Adobe disponibiliza tutoriais e guias de usuários.
+
+O Photoshop 1.0 foi lançado comercialmente em 1990 e dependia de um computador com apenas 2MB de Memória RAM. Em outubro de 2018, foi lançado o Adobe Photoshop CC (20,0) que apresenta, dentre muitas novidades, recursos avançados para gráficos 3D e webdesign.
+
+O Illustrator é o software para o desenvolvimento de gráficos vetoriais ideal para criar marcas, desenhos, tipografias, layouts e ilustrações. Sua primeira versão surgiu em 1987 e mudou o rumo da Adobe, que até então se ocupava apenas com o Adobe PostScript. O filme The Adobe Illustrator Story Documentary revela que, no início, os críticos diziam que o programa iria acabar com a carreira dos designers e outros artistas visuais, mas John Warnock e Charles Geschke afirmaram que o que diferencia o designer do usuário é a criatividade. A interface do Illustrator é parecida com a do Photoshop, mas tem recursos específicos para a vetorização.
+
+O InDesign foi lançado em 1999 e substituiu o programa PageMaker, desenvolvido pela Aldus, empresa comprada pela Adobe em 1994. (SILVA, 2015) É um software dedicado ao desktop publishing, pois foi totalmente desenvolvido para a criação e a diagramação de páginas para impressão e mídia digital, podendo criar formulários e livros interativos. A interface do Indesign é semelhante ao do Photoshop e do Illustrator, mas seu diferencial é trabalhar com páginas sequenciais lado a lado.
+
 ## [CGI] Teoria das cores
 
 ## [CGI] Chroma Key
