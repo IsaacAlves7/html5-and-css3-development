@@ -33,6 +33,8 @@ A computação gráfica está presente em nosso dia a dia desde as imagens de di
 
 ## [CGI] Teoria das cores
 
+## [CGI] Chroma Key
+
 # [2D] Ps - Adobe Photoshop
 
 # [2D] Adobe Ilustrator
