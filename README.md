@@ -165,6 +165,8 @@ Muitos se perguntam se tem como aumentar a resolução de uma imagem no editor, 
 
 Vamos considerar que você tenha 100 pixels para compor um retângulo ou quadrado de uma imagem, e aumenta essa imagem para 3x do tamanho dela, esses mesmos 100 pixels vão ser responsáveis para se ajustar e cobrir aquela área da imagem. Os pixels começam a se espaçar e daí perdemos a resolução. 
 
+Vemos que isso não é viável de aumentar a resolução de uma imagem, mas o inverso disso é possível, pode ter imagens de alta resolução e comprimir elas, ou seja, diminuir a resolução dessa imagem, para compartilhamento via internet ou preview de imagens isso é algo muito viável, pois reduz também o processamento dependendo do aparelho. Com o Photoshop podemos comprimir a resolução dessas imagens e deixar muito bem otimizada com uma boa qualidade. Podemos fazer isso com o comando do menu do Adobe Ps CC: `arquivo > exportar > salvar para a web`.
+
 Então, o que é recomendado é que possamos armazenar na nossa máquina imagens de resolução mais compatível daquele tamanho disponível, seja registrada por câmeras fotográficas ou criadas pela internet. É recomendado o formato de compreensão RAW, que ele não vai ter compreensão da imagem, ela tem ali a qualidade total da câmera seja em 1920x1080p (Full-HD), ou 2k ou 4k.
 
 **Bitmap e dados** - Uma imagem bitmap tem muita informação e necessita de muito espaço de armazenamento. É importante observar quantos MB (megabytes) a imagem tem e, se for necessário, o arquivo deverá ser compactado para uma extensão JPEG ou RAW.
@@ -178,7 +180,9 @@ Na prática, qual cuidado devemos ter com a imagem bitmap? Se você ampliar uma 
 ## [CGI] Imagem vetorial
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/1a5a1e62-c131-4509-b76d-6dc4b6709626" align="right" height="177">
 
-As **Imagens vetoriais** são gráficos baseados em vetores matemáticos, o que significa que elas são definidas por equações matemáticas que descrevem formas geométricas. Essa característica permite que as imagens vetoriais sejam redimensionadas sem perda de qualidade, ao contrário das imagens rasterizadas (bitmap), que consistem em pixels e podem perder qualidade quando aumentadas.
+As **Imagens vetoriais** são gráficos baseados em vetores matemáticos, o que significa que elas são definidas por equações matemáticas que descrevem formas geométricas. Essa característica permite que as imagens vetoriais sejam redimensionadas sem perda de qualidade, ao contrário das imagens rasterizadas (bitmap), que consistem em pixels e podem perder qualidade quando aumentadas. Então, nada mais são que cálculos matemáticos feitos pelo computador e por se tratar de um elemento 2D, ele usa os eixos X e Y para traçar as linhas e os vértices, formando os desenhos que vemos chamado "imagem vetorial".
+
+Com isso, como ele é um cálculo, eu posso aumentar e estender, diminuir e modelar da forma como eu bem quiser porque a cada vez que eu fizer isso a minha resolução não vai ser prejudicada. Por que toda a vez que você aumenta e diminui uma imagem ou o desenho vetorial, o computador vai recalcular essa área. E,  consequentemente, vai mexer no tamanho sem prejudicar a sua resolução. Então, é bem comum utilizar vetores em grandes formatos como outdoor, painés e logos. 
 
 A tela e as interfaces dos programas gráficos, mesmo que sejam para a criação de imagem vetorial, são formadas por mapas bits. No entanto, se a imagem vetorial for muito ampliada, ela não perde resolução, permanece nítida.
 
