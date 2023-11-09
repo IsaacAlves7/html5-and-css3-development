@@ -39,11 +39,11 @@ As imagens no campo bidimensional, isto é, representadas em suportes como o pap
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/a77486c4-911a-40cc-bf09-91da7a01cc88" align="right" height="177">
 
-Objetos 2D: imagens bidimensionais são realizadas em duas dimensões – altura e comprimento, nos eixos cartesianos Y (vertical) e Z (horizontal). São figuras planas que não oferecem uma percepção de profundidade. A escrita é incluída na forma bidimensional.
+**Objetos 2D**: imagens bidimensionais são realizadas em duas dimensões: altura e comprimento, nos eixos cartesianos Y (vertical) e Z (horizontal). São figuras planas que não oferecem uma percepção de profundidade. A escrita é incluída na forma bidimensional. Objetos 2D referem-se a objetos que existem em duas dimensões espaciais: comprimento e largura. Em outras palavras, esses objetos são planos e têm apenas extensão em duas direções. Eles não têm profundidade. Exemplos comuns de objetos 2D incluem desenhos em uma folha de papel, imagens em uma tela de computador ou até mesmo símbolos em uma superfície plana.
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/72002167-4188-48f0-a1d2-48c5c3d31c2a" align="right" height="177">
 
-Objetos 3D: imagens tridimensionais são construídas em três dimensões, segundo o tri-eixo cartesiano Y (altura), Z (comprimento) e X (profundidade). O mundo em que vivemos é tridimensional e pode ser representado sobre superfícies planas adotando a geometria descritiva.
+**Objetos 3D**: imagens tridimensionais são construídas em três dimensões, segundo o tri-eixo cartesiano Y (altura), Z (comprimento) e X (profundidade). O mundo em que vivemos é tridimensional e pode ser representado sobre superfícies planas adotando a geometria descritiva.
 
 Isso quer dizer que adotamos uma técnica que, através da ilusão ótica, sugere uma profundidade muito próxima da realidade.
 
