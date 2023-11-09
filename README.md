@@ -11,6 +11,8 @@ Veremos que os programas da Adobe Creative Cloud atendem aos profissionais da in
 
 Conheceremos as técnicas em relação à resolução da imagem, como usar a imagem bitmap e a vetorial, quais os programas mais indicados para cada uma delas, como são feitas as imagens 2D e 3D, quais as extensões dos programas gráficos e como devemos fechar um arquivo. Finalmente, aprenderemos os fundamentos do design para a diagramação de páginas.
 
+# 🎨 Teoria das cores
+
 # [2D] Ps - Adobe Photoshop
 
 # [2D] Adobe Ilustrator
