@@ -56,8 +56,32 @@ Os principais campos da CG:
 **Computer aided design - CAD**: permite que os projetistas desenvolvam suas ideias de forma mais rápida e eficaz. Além de possibilitar algumas simulações, como iluminação, é possível produzir o objeto em impressoras 3D.
 
 **VR - Realidade virtual**: Jaron Lanier, fundador da VPL Research Inc., criou o termo realidade virtual na década de 1980, para diferenciar as simulações tradicionais feitas por um computador para uma multiplicidade de usuários em um ambiente compartilhado. É considerada a forma mais avançada de interação homem/ máquina. Trata-se de uma interface que simula um ambiente real e permite aos participantes interagir com ele, (Latta, 1994) possibilitando às pessoas visualizar, manipular e interagir com representações extremamente complexas. (Aukstakalnis, 1992) O filme Matrix é um exemplo do uso da realidade virtual.
-   
+
+**AR - Augmented Reality**: Realidade Aumentada (RA), é uma tecnologia que combina elementos do ambiente físico do usuário com elementos virtuais gerados por computador, em tempo real. Em outras palavras, a AR permite sobrepor informações digitais, como imagens, vídeos, ou dados, ao mundo real percebido pelo usuário.
+
 **Editoração Eletrônica**: é a edição de publicações intermediada por computador que oferece um resultado com qualidade igual ou superior ao processo convencional.
+
+Existem vários tipos de algoritmos gráficos utilizados para diferentes propósitos na computação gráfica, muitos dos quais podem ser usados para gerar efeitos visuais complexos e realistas. Aqui estão alguns exemplos de algoritmos gráficos e técnicas relacionadas:
+
+- **Perlin Noise**: ou "Perlin Noise Function" é um algoritmo de geração de padrões de ruído desenvolvido por Ken Perlin. Ele é comumente utilizado em computação gráfica, especialmente para criar texturas naturais, paisagens, efeitos visuais realistas, entre outras aplicações.
+
+- **Simplex Noise**: Uma evolução do Perlin Noise, também desenvolvida por Ken Perlin, que oferece algumas melhorias em termos de eficiência computacional e qualidade visual.
+
+- **Worley Noise (Voronoi Diagrams)**: Também conhecido como Voronoi Noise ou Cell Noise, este algoritmo cria padrões baseados em células que representam regiões do espaço mais próximas de determinados pontos de controle.
+
+- **Algoritmos de Geração de Terreno**: Existem vários algoritmos para criar paisagens e terrenos realistas, como o Diamond-Square Algorithm, o Perlin Diamond Algorithm, e o Fault Algorithm.
+
+- **Algoritmos de Sombras**: Para simular sombras em gráficos 3D, existem algoritmos como o Shadow Mapping, Shadow Volumes, e técnicas mais avançadas como Ray Tracing.
+
+- **Algoritmos de Antialiasing**: Técnicas como o Supersampling, Multisampling, e o algoritmo de Antialiasing Temporal são usados para reduzir o efeito de serrilhamento em gráficos computacionais.
+
+- **Ray Tracing**: Uma técnica avançada de renderização que simula o comportamento da luz ao traçar raios de luz através de uma cena, resultando em imagens altamente realistas.
+
+- **Algoritmos de Renderização de Sombra**: Além dos métodos de sombra mencionados anteriormente, técnicas como Shadow Mapping e Volume Shadows são usadas para simular sombras de objetos em cenas 3D.
+
+- **Algoritmos de Fluidos**: Para simular fluidos em animações computacionais, métodos como Smoothed Particle Hydrodynamics (SPH) são frequentemente utilizados.
+
+- **Algoritmos de Iluminação**: Diferentes técnicas de iluminação, como o modelo de iluminação de Phong, são usadas para simular a interação da luz com objetos em ambientes 3D.
 
 ## [CGI] Editoração eletrônica
 O desktop publishing - DTP, editoração eletrônica ou diagramação eletrônica, é o campo da computação gráfica que se dedica à composição de páginas realizadas no computador.
@@ -189,13 +213,6 @@ Os arquivos de imagens vetoriais podem ser armazenados em vários formatos, send
 - DWG (AutoCAD Drawing Database): Usado principalmente em software de design assistido por computador (CAD), o formato DWG pode conter informações 2D e 3D.
 
 É importante notar que alguns desses formatos podem suportar tanto gráficos vetoriais quanto elementos de imagem rasterizada, dependendo de como são criados e salvos. A escolha do formato muitas vezes depende da aplicação específica e dos requisitos do projeto.
-
-## [CGI] Teoria das cores
-
-## [CGI] Algoritmos gráficos
-Existem vários tipos de algoritmos gráficos utilizados para diferentes propósitos na computação gráfica, muitos dos quais podem ser usados para gerar efeitos visuais complexos e realistas. Aqui estão alguns exemplos de algoritmos gráficos e técnicas relacionadas:
-
-- **Perlin Noise**: ou "Perlin Noise Function" é um algoritmo de geração de padrões de ruído desenvolvido por Ken Perlin. Ele é comumente utilizado em computação gráfica, especialmente para criar texturas naturais, paisagens, efeitos visuais realistas, entre outras aplicações.
 
 ## [CGI] Chroma Key
 
