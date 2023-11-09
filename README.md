@@ -192,6 +192,11 @@ Os arquivos de imagens vetoriais podem ser armazenados em vários formatos, send
 
 ## [CGI] Teoria das cores
 
+## [CGI] Algoritmos gráficos
+Existem vários tipos de algoritmos gráficos utilizados para diferentes propósitos na computação gráfica, muitos dos quais podem ser usados para gerar efeitos visuais complexos e realistas. Aqui estão alguns exemplos de algoritmos gráficos e técnicas relacionadas:
+
+- **Perlin Noise**: ou "Perlin Noise Function" é um algoritmo de geração de padrões de ruído desenvolvido por Ken Perlin. Ele é comumente utilizado em computação gráfica, especialmente para criar texturas naturais, paisagens, efeitos visuais realistas, entre outras aplicações.
+
 ## [CGI] Chroma Key
 
 # [2D] Ps - Adobe Photoshop
