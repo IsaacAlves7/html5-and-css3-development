@@ -106,6 +106,10 @@ O pixel só tem uma cor, a preta. É gravado no bit a informação (1) para o pr
 ### [CGI] Pixel
 Um **pixel**, que é uma contração das palavras "picture element" (elemento de imagem, em português), é a menor unidade discreta em um dispositivo de exibição, como uma tela de computador, monitor, ou câmera digital. Um pixel é um ponto único em uma grade bidimensional e representa a menor unidade de cor e intensidade em uma imagem digital. Os pixels são organizados em linhas e colunas para formar uma matriz, e cada pixel pode ser atribuído a uma cor específica. Na exibição de cores, os pixels são frequentemente compostos por três subpixels, que correspondem às cores primárias vermelho, verde e azul (RGB), permitindo a criação de uma ampla gama de cores quando combinados em diferentes intensidades.
 
+Os pixels são organizados em linhas e colunas para formar uma matriz, e cada pixel pode ser atribuído a uma cor específica. Na exibição de cores, os pixels são frequentemente compostos por três subpixels, que correspondem às cores primárias vermelho, verde e azul (RGB), permitindo a criação de uma ampla gama de cores quando combinados em diferentes intensidades.
+
+A resolução de uma imagem é frequentemente medida pela quantidade de pixels em largura e altura, por exemplo, "1920x1080" indica uma resolução de 1920 pixels de largura por 1080 pixels de altura. A densidade de pixels, medida em pixels por polegada (PPI), é outra métrica importante na qualidade da imagem, especialmente em dispositivos de exibição como telas de smartphones e monitores.
+
 O que ocorre para que o pixel tenha cor é a técnica denominada “profundidade de pixel”, na qual um pixel pode receber várias camadas de bits até chegar à cor desejada.
 
 Sobrepondo essas camadas de bits, é possível chegar a 32 milhões de cores, número maior que a natureza e maior do que possamos distinguir.
@@ -154,9 +158,9 @@ Os vetores não são formados por pixels, mas definidos por seus atributos.
 
 O computador guarda na memória os atributos da imagem vetorial, e assim, qualquer outro computador pode redesenhar. Isto corresponde a uma economia de informações e torna a imagem vetorial mais leve que a bitmap.
 
-<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/cf65978b-0782-4858-bac4-196ecf2623ba" align="right" height="177">
-
 No caso da ampliação ou redução, o que acontece?
+
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/cf65978b-0782-4858-bac4-196ecf2623ba" align="right" height="177">
 
 Quando ampliamos a imagem vetorial, apesar dela ocupar mais espaço na área de trabalho, os atributos permanecem.
 
