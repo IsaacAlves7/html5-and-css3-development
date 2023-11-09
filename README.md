@@ -184,6 +184,8 @@ As **Imagens vetoriais** são gráficos baseados em vetores matemáticos, o que 
 
 Com isso, como ele é um cálculo, eu posso aumentar e estender, diminuir e modelar da forma como eu bem quiser porque a cada vez que eu fizer isso a minha resolução não vai ser prejudicada. Por que toda a vez que você aumenta e diminui uma imagem ou o desenho vetorial, o computador vai recalcular essa área. E,  consequentemente, vai mexer no tamanho sem prejudicar a sua resolução. Então, é bem comum utilizar vetores em grandes formatos como outdoor, painés e logos. 
 
+No entanto, é interessante tomar um certo cuidado com imagens e vetores para ter um convívio mais harmônico entre ambas as estruturas. Um ponto em que se você usar vetores, você não vai utilizar textos em cima de imagens.
+
 A tela e as interfaces dos programas gráficos, mesmo que sejam para a criação de imagem vetorial, são formadas por mapas bits. No entanto, se a imagem vetorial for muito ampliada, ela não perde resolução, permanece nítida.
 
 Por quê?
