@@ -153,7 +153,7 @@ QUANTIDADE DE PIXELS / ÁREA DE IMPRESSÃO = RESOLUÇÃO
 72 pixels / polegada (inch)
 ```
 
-Como determino uma boa resolução para minha imagem? Uma imagem com boa resolução deve ocupar a medida exata da área em que será inserida, ter 300 dpi (pixels x polegada) para formatos até A3 e nunca deve ser muito ampliada ou muito reduzida.
+Como determino uma boa resolução para minha imagem? Uma imagem com boa resolução deve ocupar a medida exata da área em que será inserida, ter 300 dpi (pixels x polegada) para formatos até A3 e nunca deve ser muito ampliada ou muito reduzida. Você consegue fazer isso clicando nesse pixel ou produzindo desenhos digitais, mas nunca inserindo e editando fotos.
 
 É muito importante saber que, quanto mais pixels são colocados em uma pequena área, mais reduzido será o tamanho do pixel. Quanto menos pixels em uma área maior, maior será o tamanho do pixel.
 
