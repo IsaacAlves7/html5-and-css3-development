@@ -97,12 +97,33 @@ O mapa de bits é conhecido como raster, varredura ou matricial. Neste sistema, 
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/9a51acf2-5770-4b2a-a9c9-22e21ae2be8a" align="right" height="177">
 
-"O pixel é a representação gráfica da variação do bit. Ele é, na verdade, quadrado e indivisível. (...) Como o pixel é a menor unidade da imagem mapa de bits, ele acabou por se constituir como unidade de medida do planeta digital. (...)
+> "O pixel é a representação gráfica da variação do bit. Ele é, na verdade, quadrado e indivisível. (...) Como o pixel é a menor unidade da imagem mapa de bits, ele acabou por se constituir como unidade de medida do planeta digital. (...)
+>
+> Da mesma forma que medimos algo no planeta material usando o centímetro, por exemplo, no planeta digital nós usamos o pixel.” - GAMBA Jr., 2013, p.14
 
-Da mesma forma que medimos algo no planeta material usando o centímetro, por exemplo, no planeta digital nós usamos o pixel.”
+O pixel só tem uma cor, a preta. É gravado no bit a informação (1) para o preto e (0) para o branco. Tudo o que você vê na tela é feito na combinação 1 e 0 do bit.
 
-- GAMBA Jr., 2013, p.14
+### [CGI] Pixel
+Um **pixel**, que é uma contração das palavras "picture element" (elemento de imagem, em português), é a menor unidade discreta em um dispositivo de exibição, como uma tela de computador, monitor, ou câmera digital. Um pixel é um ponto único em uma grade bidimensional e representa a menor unidade de cor e intensidade em uma imagem digital. Os pixels são organizados em linhas e colunas para formar uma matriz, e cada pixel pode ser atribuído a uma cor específica. Na exibição de cores, os pixels são frequentemente compostos por três subpixels, que correspondem às cores primárias vermelho, verde e azul (RGB), permitindo a criação de uma ampla gama de cores quando combinados em diferentes intensidades.
 
+O que ocorre para que o pixel tenha cor é a técnica denominada “profundidade de pixel”, na qual um pixel pode receber várias camadas de bits até chegar à cor desejada.
+
+Sobrepondo essas camadas de bits, é possível chegar a 32 milhões de cores, número maior que a natureza e maior do que possamos distinguir.
+
+Bitmap e resolução - A quantidade de pontos por polegada ou DPI (dots per inch) determina a resolução da imagem. A medida do pixel é digital, não tem correspondência com nenhum sistema métrico e não pode ser medido em centímetros ou polegadas.
+
+É o computador que converte o pixel para uma medida métrica no momento da impressão. Esta medida corresponde à seguinte relação:
+
+```sql
+QUANTIDADE DE PIXELS / ÁREA DE IMPRESSÃO = RESOLUÇÃO
+```
+
+**Exemplo**:
+
+```sql
+100 pixels / cm (centímetro)
+72 pixels / polegada (inch)
+```
 
 ## [CGI] Teoria das cores
 
