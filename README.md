@@ -33,6 +33,8 @@ A computação gráfica está presente em nosso dia a dia desde as imagens de di
 
 **Apresentação gráfica de dados**: Apresentação gráfica de dados usados em economia, administração e estatística, com o uso dos programas da Microsoft Office;
 
+**Visualização de dados tridimensionais**: Visualização de dados tridimensionais produzidos por simulação ou coletados por equipamentos diversos como, por exemplo, tomógrafos e satélites meteorológicos.
+
 ## [CGI] Teoria das cores
 
 ## [CGI] Chroma Key
