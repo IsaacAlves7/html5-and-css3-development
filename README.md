@@ -83,7 +83,7 @@ Existem vários tipos de algoritmos gráficos utilizados para diferentes propós
 
 - **Algoritmos de Iluminação**: Diferentes técnicas de iluminação, como o modelo de iluminação de Phong, são usadas para simular a interação da luz com objetos em ambientes 3D.
 
-## [CGI] Editoração eletrônica
+# [CGI] Editoração eletrônica
 O desktop publishing - DTP, editoração eletrônica ou diagramação eletrônica, é o campo da computação gráfica que se dedica à composição de páginas realizadas no computador.
 
 O DTP surgiu em 1985 com o programa PageMaker, criado pela Aldus Corporation, e com a impressora LaserWriter da Apple Computer.
@@ -228,7 +228,21 @@ Os arquivos de imagens vetoriais podem ser armazenados em vários formatos, send
 
 É importante notar que alguns desses formatos podem suportar tanto gráficos vetoriais quanto elementos de imagem rasterizada, dependendo de como são criados e salvos. A escolha do formato muitas vezes depende da aplicação específica e dos requisitos do projeto.
 
-## [CGI] Chroma Key
+## [CGI] Escalas de cores em editoração eletrônica
+As cores são essenciais na editoração eletrônica, pois são os elementos da composição visual que mais emocionam. Os estudos sobre a psicodinâmica das cores nos mostram que por exemplo, o azul está associado ao gelo, por isso é utilizado em embalagens de água mineral.
+
+A escolha do modo de cor é definida em função da aplicação da arte criada. O modo RGB é usado em artes para web e o CMYK para impressão gráfica ou em impressoras caseiras.
+
+### [CGI] Escala RGB
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/35feea5b-7121-46d6-a5b3-f710e762ed9b" align="right" height="177">
+
+O modo RGB tem sua origem na síntese aditiva, um fenômeno físico em que as luzes geram cores. A ausência da luz resulta no preto (escuridão), e o somatório das luzes resulta no branco.
+
+A síntese aditiva é formada pelas cores vermelha (red), verde (green) e azul (blue), por isso é conhecida como RGB.
+
+O que você está vendo agora na sua tela são cores RGB, portanto, as artes que serão aplicadas na web devem ser feitas nesta escala. As cores da escala RGB são representadas em decimais que vão de 0 a 255.
+
+## [Ae] Chroma Key
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/d5e28d73-fa31-4fe0-a881-b56bc5c20737" align="right" height="77">
 
 O **Chroma Key** é uma técnica usada em produções audiovisuais para combinar duas imagens ou vídeos diferentes, removendo uma cor específica (geralmente verde ou azul) de uma delas e substituindo essa área pela imagem ou vídeo da outra. Essa técnica é frequentemente usada em produção de filmes, televisão, transmissões ao vivo, e criação de conteúdo para vídeo.
