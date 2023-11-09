@@ -128,6 +128,8 @@ O mapa de bits é conhecido como raster, varredura ou matricial. Neste sistema, 
 O pixel só tem uma cor, a preta. É gravado no bit a informação (1) para o preto e (0) para o branco. Tudo o que você vê na tela é feito na combinação 1 e 0 do bit.
 
 ### [CGI] Pixel
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/0712e5eb-8dc1-472a-9fa9-43a96c40e123" align="right" height="77">
+
 Um **pixel**, que é uma contração das palavras "picture element" (elemento de imagem, em português), é a menor unidade discreta em um dispositivo de exibição, como uma tela de computador, monitor, ou câmera digital. Um pixel é um ponto único em uma grade bidimensional e representa a menor unidade de cor e intensidade em uma imagem digital. Os pixels são organizados em linhas e colunas para formar uma matriz, e cada pixel pode ser atribuído a uma cor específica. Na exibição de cores, os pixels são frequentemente compostos por três subpixels, que correspondem às cores primárias vermelho, verde e azul (RGB), permitindo a criação de uma ampla gama de cores quando combinados em diferentes intensidades.
 
 Os pixels são organizados em linhas e colunas para formar uma matriz, e cada pixel pode ser atribuído a uma cor específica. Na exibição de cores, os pixels são frequentemente compostos por três subpixels, que correspondem às cores primárias vermelho, verde e azul (RGB), permitindo a criação de uma ampla gama de cores quando combinados em diferentes intensidades.
