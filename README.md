@@ -237,7 +237,7 @@ O Chroma Key é especialmente útil em situações em que seria difícil ou impr
 
 Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de televisão. O meteorologista geralmente fica na frente de um fundo verde, que é substituído por mapas meteorológicos ou imagens de satélite durante a transmissão.
 
-O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição.
+O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição. Para usar melhor esse recurso, existem vários programas de edição de vídeo que podem fazer isso, o melhor para usar é o Adobe Premiere CC.
 
 # [2D] Ps - Adobe Photoshop CC
 
