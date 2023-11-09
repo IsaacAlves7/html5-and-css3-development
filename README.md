@@ -152,9 +152,13 @@ Os vetores não são formados por pixels, mas definidos por seus atributos.
 
 O computador guarda na memória os atributos da imagem vetorial, e assim, qualquer outro computador pode redesenhar. Isto corresponde a uma economia de informações e torna a imagem vetorial mais leve que a bitmap.
 
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/cf65978b-0782-4858-bac4-196ecf2623ba" align="right" height="177">
+
 No caso da ampliação ou redução, o que acontece?
 
 Quando ampliamos a imagem vetorial, apesar dela ocupar mais espaço na área de trabalho, os atributos permanecem.
+
+> Devido a esta característica, marcas, símbolos, ilustrações e desenhos devem ser feitos em programas gráficos como Illustrator ou CorelDraw, para não perderem a qualidade.
 
 ## [CGI] Teoria das cores
 
