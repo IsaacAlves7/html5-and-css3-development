@@ -25,6 +25,12 @@ Renata Silva (2015) cita o termo CGI, computer-generated imagery (imagens gerada
 
 > **Saiba mais**: O primeiro computador a apresentar uma interface gráfica foi o **Whirlwind I**, desenvolvido pelo Instituto de Tecnologia de Massachusetts - MIT em 1950, que foi utilizado para a produção e exibição de vídeos. Este computador surgiu unicamente com finalidade acadêmica e depois passou a atender às necessidades militares de monitoramento e controle de voos, desenvolvidas pela defesa aérea dos EUA.
 
+A computação gráfica está presente em nosso dia a dia desde as imagens de diagnósticos em medicina aos jogos digitais, da indústria do entretenimento ao treinamento de profissionais por simuladores. Para cada área existe um sistema operacional específico.
+
+**CAD|CAM|CAE**: A sigla CA é a abreviação de computer-aided (assistido por computador). Em CAD, o D é de design; em CAD/CAM, o M de é manufacturing (manufatura) e atualmente é possível passar do desenho 3D para a modelagem em impressora 3D; em CAD/CAE, o E é de engineering (engenharia). O sistema CAE tem técnicas avançadas do CAD capaz de definir os acabamentos, materiais e até mesmo medir as relações externas do objeto, como a temperatura.
+
+**Animação e efeitos especiais**: Animação e efeitos especiais, como os programas das suítes Adobe e Corel Draw para publicidade e entretenimento. As técnicas desta área são responsáveis pela geração de imagens e textos e permitem a introdução de som, movimento e interatividade;
+
 ## [CGI] Teoria das cores
 
 # [2D] Ps - Adobe Photoshop
