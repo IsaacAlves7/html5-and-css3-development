@@ -144,12 +144,17 @@ A tela e as interfaces dos programas gráficos, mesmo que sejam para a criação
 
 Por quê?
 
-> “Os gráficos vetoriais são constituídos por primitivas geométricas como pontos, formas, curvas, polígonos ou linhas originadas por expressões matemáticas”.
-- SILVA, 2015
+> “Os gráficos vetoriais são constituídos por primitivas geométricas como pontos, formas, curvas, polígonos ou linhas originadas por expressões matemáticas”.- SILVA, 2015
 
 Os vetores não são formados por pixels, mas definidos por seus atributos.
 
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/1a5a1e62-c131-4509-b76d-6dc4b6709626" align="right" height="177">
+
 O computador guarda na memória os atributos da imagem vetorial, e assim, qualquer outro computador pode redesenhar. Isto corresponde a uma economia de informações e torna a imagem vetorial mais leve que a bitmap.
+
+No caso da ampliação ou redução, o que acontece?
+
+Quando ampliamos a imagem vetorial, apesar dela ocupar mais espaço na área de trabalho, os atributos permanecem.
 
 ## [CGI] Teoria das cores
 
